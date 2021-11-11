@@ -1,0 +1,4 @@
+﻿  Start.cpp
+C:\Users\Darkbladebfg\source\repos\TrafficSimulator\TrafficSimulator\Start.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Darkbladebfg\source\repos\TrafficSimulator\TrafficSimulator\Start.cpp(95,20): warning C4805: '!=': unsafe mix of type 'SDL_bool' and type 'bool' in operation
+  TrafficSimulator.vcxproj -> C:\Users\Darkbladebfg\source\repos\TrafficSimulator\Debug\TrafficSimulator.exe

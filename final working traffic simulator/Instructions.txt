@@ -1,0 +1,10 @@
+A car is represented by a filled red rectangle
+A semaphore is represented by a perpendicular line to the track
+
+
+When the user presses the s key:
+
+   
+   The semaphore will turn red for 2 seconds
+   If the car is a at a preseted distance from the semaphore it will stop
+   If the car has already passed the semaphore location it will continue it's movement no matter the semaphore state
